@@ -49,7 +49,6 @@ class About extends Me
 <img align="left" title='HTML5' alt="HTML5" width="26px" src="assets/icons/svg/html5.svg" style="padding-right:10px;" />
 <img align="left" title='CSS3' alt="CSS3" width="26px" src="assets/icons/svg/css3.svg" style="padding-right:10px;" />
 <img align="left" title='JavaScript' alt="JavaScript" width="26px" src="assets/icons/svg/javascript.svg" style="padding-right:10px;" />
-<img align="left" title='jQuery' alt="jQuery" width="26px" src="assets/icons/svg/jquery.svg" style="padding-right:10px;" />
 <img align="left" title='MySQL' alt="MySQL" width="26px" src="assets/icons/svg/mysql.svg" style="padding-right:10px;" />
 <img align="left" title='Postgresql' alt="Postgresql" width="26px" src="assets/icons/png/postgresql.png" style="padding-right:10px;" />
 <img align="left" title='Git' alt="Git" width="26px" src="assets/icons/svg/git.svg" style="padding-right:10px;" />
