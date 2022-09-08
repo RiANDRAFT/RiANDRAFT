@@ -14,7 +14,7 @@ class About extends Me
             'Language' => 'PHP',
             'Location' => 'Somewhere on Earth',
             'Favorite' => 'Maow',
-            'Alias' => 'Rian',
+            'IGN' => 'Rian',
             'Email' => 'riandraft@gmail.com'
         ];
     }
@@ -43,16 +43,18 @@ class About extends Me
 <br>
 <img align="left" title='Windows' alt="Windows" width="26px" src="assets/icons/png/microsoft-windows.png" style="padding-right:10px;" />
 <img align="left" title='PHP' alt="PHP" width="26px" src="assets/icons/svg/php-original.svg" style="padding-right:10px;" />
+<img align="left" title='Composer' alt="Composer" width="26px" src="assets/icons/svg/composer.svg" style="padding-right:10px;" />
 <img align="left" title='Laravel' alt="Laravel" width="26px" src="assets/icons/svg/laravel.svg" style="padding-right:10px;" />
 <img align="left" title='Visual Studio Code' alt="Visual Studio Code" width="26px" src="assets/icons/svg/visual-studio-code.svg" style="padding-right:10px;" />
 <img align="left" title='HTML5' alt="HTML5" width="26px" src="assets/icons/svg/html5.svg" style="padding-right:10px;" />
 <img align="left" title='CSS3' alt="CSS3" width="26px" src="assets/icons/svg/css3.svg" style="padding-right:10px;" />
 <img align="left" title='JavaScript' alt="JavaScript" width="26px" src="assets/icons/svg/javascript.svg" style="padding-right:10px;" />
+<img align="left" title='jQuery' alt="jQuery" width="26px" src="assets/icons/svg/jquery.svg" style="padding-right:10px;" />
 <img align="left" title='MySQL' alt="MySQL" width="26px" src="assets/icons/svg/mysql.svg" style="padding-right:10px;" />
 <img align="left" title='Postgresql' alt="Postgresql" width="26px" src="assets/icons/png/postgresql.png" style="padding-right:10px;" />
 <img align="left" title='Git' alt="Git" width="26px" src="assets/icons/svg/git.svg" style="padding-right:10px;" />
 <img align="left" title='Postman' alt="Postman" width="26px" src="assets/icons/svg/postman.svg" style="padding-right:10px;" />
-<img align="left" title='Github' alt="Postman" width="26px" src="assets/icons/png/github.png" style="padding-right:10px;" />
+<img align="left" title='Redis' alt="Redis" width="26px" src="assets/icons/svg/redis.svg" style="padding-right:10px;" />
 <img align="left" title='Photoshop' alt="Photoshop" width="26px" src="assets/icons/svg/photoshop.svg" style="padding-right:10px;" />
 <img align="left" title='Adobe Illustrator' alt="Adobe Illustrator" width="26px" src="assets/icons/png/adobe-illustrator.png" style="padding-right:10px;" />
 
