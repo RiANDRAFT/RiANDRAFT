@@ -9,7 +9,7 @@ class About extends Me
    public function getAbout(){
         return [
             'Work' => 'Full stack Web developer and Instructor',
-            'Hobby' => 'In my free time, I play CODM',
+            'Hobby' => 'Freelancing',
             'Framework' => 'Laravel',
             'Language' => 'PHP',
             'Location' => 'Somewhere on Earth',
