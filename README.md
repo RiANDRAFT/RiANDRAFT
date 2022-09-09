@@ -6,7 +6,7 @@ namespace Al;
 class About extends Me
 {
 
-   public function getAl(){
+   public function index(){
         return [
             'Work' => 'Full stack Web developer and Instructor',
             'Hobby' => 'In my free time, I play CODM',
