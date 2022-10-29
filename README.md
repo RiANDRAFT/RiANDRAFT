@@ -9,7 +9,6 @@ class About implements Al
    public function getAbout(){
          return [
             "Work" => "Full Stack Web Developer",
-            "Hobby" => "Playing Video Games",
             "Frameworks" => [
                "Laravel", "Lumen", "Vue"
             ],
