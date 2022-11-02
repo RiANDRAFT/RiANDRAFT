@@ -1,9 +1,9 @@
 ```php
 <?php
 
-namespace Earth;
+namespace WorldWideWeb;
 
-class About implements Al
+class About extends Al
 {
 
    public function getAbout(){
