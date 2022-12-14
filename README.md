@@ -12,7 +12,9 @@ class About extends Al
             "Frameworks" => [
                "Laravel", "Lumen", "Vue"
             ],
-            "Language" => "PHP",
+            "Language" => [
+               "PHP", "Javascript"
+            ],
             "Country" => "PH",
             "Email" => "riandraft@gmail.com"
         ];
