@@ -15,7 +15,6 @@ class About extends Al
             "Languages" => [
                "PHP", "Javascript"
             ],
-            "Country" => "Philippines",
             "Email" => "riandraft@gmail.com"
         ];
     }
