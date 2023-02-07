@@ -10,7 +10,7 @@ class About extends Al
          return [
             "Work" => "Full Stack Web Developer",
             "Frameworks" => [
-               "Laravel/Lumen, "Vue"
+               "Laravel/Lumen"
             ],
             "Languages" => [
                "PHP", "Javascript"
