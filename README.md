@@ -35,7 +35,7 @@ class About extends Al
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Skillsets%20and%20Toolsets)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Stack)](https://git.io/typing-svg)
 <br>
 <img style = "width:26px; height:26px;" align="left" title='Windows' alt="Windows" src="assets/icons/png/microsoft-windows.png" />
 <img style = "width:26px; height:26px;" align="left" title='PHP' alt="PHP" src="assets/icons/svg/php-original.svg" />
