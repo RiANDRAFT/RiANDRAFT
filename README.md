@@ -22,10 +22,11 @@ class About extends Al
 }
 ```
 
+<!---
 <p width="100%">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </p>
-
+-->
 
 <!---
 <div width="100%">  
@@ -34,7 +35,7 @@ class About extends Al
 </div> 
 -->
 
-
+<!---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Stack)](https://git.io/typing-svg)
 <br>
 <img style = "width:26px; height:26px;" align="left" title='Windows' alt="Windows" src="assets/icons/png/microsoft-windows.png" />
@@ -55,9 +56,6 @@ class About extends Al
 <img style = "width:26px; height:26px;" align="left" title='Tailwind' alt="Tailwind" src="assets/icons/png/tailwind.png" />
 <img style = "width:26px; height:26px;" align="left" title='Materialize' alt="Materialize" src="assets/icons/svg/materialize.svg"/>
 <img style = "width:26px; height:26px;" align="left" title='Bootstrap' alt="Bootstrap" src="assets/icons/png/Bootstrap.png"/>
-
-
-
-___
+-->
 
 <!---<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">-->
