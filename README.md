@@ -10,7 +10,7 @@ class About extends Al
          return [
             "Work" => "Front-end and Back-end Developer",
             "Frameworks" => [
-               "Laravel/Lumen", "Vue", "Nuxt"
+               "Laravel/Lumen", "Vue", "Nuxt", "Tailwind"
             ],
             "Stack" => [
                "PHP", "Javascript", "GO", "MySQL"
