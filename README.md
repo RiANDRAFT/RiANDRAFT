@@ -8,12 +8,12 @@ class About extends Al
 
    public function getAbout(){
          return [
-            "Work" => "Full Stack Web Developer",
+            "Work" => "Front-end and Back-end Developer",
             "Frameworks" => [
-               "Laravel/Lumen"
+               "Laravel/Lumen", "Nuxt"
             ],
-            "Languages" => [
-               "PHP", "Javascript"
+            "Stack" => [
+               "PHP", "Javascript", "GO", "MySQL"
             ],
             "Email" => "riandraft@gmail.com"
         ];
