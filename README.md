@@ -1,5 +1,5 @@
 ```php
-owned.txt
+Best practices are great… unless they get in the way.
 ```
 
 <!---
